@@ -23,7 +23,7 @@
   "devDependencies": {
     "oxfmt": "^0.66.0",
     "oxlint": "^1.81.0"
-  }
+  },
   "bin": {
     "brain-games": "bin/brain-games.js"
   }
