@@ -1,8 +1,11 @@
 import readlineSync from 'readline-sync';
 
-const greeting = () => {
-  const name = readlineSync.question('Your answer: ');
-  console.log(`Hello, ${name}!`)
-}
+let name = '';
 
-export default greeting
+const greeting = () => {
+  name = readlineSync.question('May I have your name? ');
+  console.log(`Hello, ${name}!`);
+};
+
+export default greeting;
+export {name};
