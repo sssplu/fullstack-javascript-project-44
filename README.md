@@ -23,7 +23,7 @@ cd fullstack-javascript-project-44
 ## Использование
 
 <!-- Добавьте примеры запуска и запись asciinema — именно это смотрит работодатель -->
-
+* [Установка пакета и демонстрация игры "Проверка на чётность"](https://asciinema.org/a/BrqshmXjjzjVgI8d)
 ---
 
 <details>
