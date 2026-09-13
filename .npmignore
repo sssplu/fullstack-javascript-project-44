@@ -1,5 +1,6 @@
 .oxfmtrc.json
 .oxfmtignore
+.oxlintrc.json
 Makefile
 .github/workflows/
 .gitignore
