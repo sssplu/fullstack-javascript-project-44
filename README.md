@@ -27,6 +27,7 @@ cd fullstack-javascript-project-44
 * [Демонстрация игры "Калькулятор"](https://asciinema.org/a/XqCRHBQaoCUQi8eo)
 * [Демонстрация игры "Наибольший общий делитель (НОД)"](https://asciinema.org/a/34TAN1QqC9WRiII7)
 * [Демонстрация игры "Арифметическая прогрессия"](https://asciinema.org/a/U4j2Ja5V3gA8A65q)
+* [Демонстрация игры "Простое ли число?"](https://asciinema.org/a/P6j7ZuCK7L5Sm6RW)
 ---
 
 <details>
