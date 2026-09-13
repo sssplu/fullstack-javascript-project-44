@@ -25,6 +25,7 @@ cd fullstack-javascript-project-44
 <!-- Добавьте примеры запуска и запись asciinema — именно это смотрит работодатель -->
 * [Установка пакета и демонстрация игры "Проверка на чётность"](https://asciinema.org/a/BrqshmXjjzjVgI8d)
 * [Демонстрация игры "Калькулятор"](https://asciinema.org/a/XqCRHBQaoCUQi8eo)
+* [Демонстрация игры "Наибольший общий делитель (НОД)"](https://asciinema.org/a/34TAN1QqC9WRiII7)
 ---
 
 <details>
